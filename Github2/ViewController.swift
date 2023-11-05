@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
       
         print("github21223")
+        print("ekleme testi")
     }
     
 
